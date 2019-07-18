@@ -1,3 +1,3 @@
-module github.com/eucj/gostructs
+module gostructs
 
 go 1.12
